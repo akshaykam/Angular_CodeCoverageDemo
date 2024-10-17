@@ -1,0 +1,6 @@
+projectKey=BranchAnalysis9.9
+serverUrl=http://172.27.59.199
+serverVersion=9.9.7.96285
+dashboardUrl=http://172.27.59.199/dashboard?id=BranchAnalysis9.9
+ceTaskId=AZKbAgCF5kDYl9b8-BUw
+ceTaskUrl=http://172.27.59.199/api/ce/task?id=AZKbAgCF5kDYl9b8-BUw
