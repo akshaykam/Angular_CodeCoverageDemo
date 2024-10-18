@@ -1,0 +1,1 @@
+ 2cssX	hrAsrc/app/courses/courses-card-list/courses-card-list.component.css
